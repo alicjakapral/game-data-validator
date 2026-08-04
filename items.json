@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Iron Sword",
+    "price": 120,
+    "rarity": "Common"
+  },
+  {
+    "id": 2,
+    "name": "Wooden Shield",
+    "price": 80,
+    "rarity": "Rare"
+  },
+  {
+    "id": 3,
+    "name": "Health Potion",
+    "price": 35,
+    "rarity": "Common"
+  },
+  {
+    "id": 4,
+    "name": "Dragon Bow",
+    "price": 950,
+    "rarity": "Epic"
+  },
+  {
+    "id": 5,
+    "name": "Crown of the Ancients",
+    "price": 5000,
+    "rarity": "Legendary"
+  }
+]

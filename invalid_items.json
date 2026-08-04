@@ -1,0 +1,88 @@
+[
+  {
+    "id": 1,
+    "name": "",
+    "price": 100,
+    "rarity": "Common"
+  },
+  {
+    "id": 2,
+    "name": "Cursed Sword",
+    "price": -50,
+    "rarity": "Rare"
+  },
+  {
+    "id": 3,
+    "name": "Broken Wand",
+    "price": 250,
+    "rarity": ""
+  },
+  {
+    "id": 4,
+    "name": "Mystery Box",
+    "price": 400,
+    "rarity": "SuperEpic"
+  },
+  {
+    "id": 4,
+    "name": "Duplicate ID Shield",
+    "price": 150,
+    "rarity": "Common"
+  },
+  {
+    "id": 0,
+    "name": "Invalid ID Item",
+    "price": 20,
+    "rarity": "Common"
+  },
+  {
+    "id": -7,
+    "name": "Negative ID Item",
+    "price": 70,
+    "rarity": "Rare"
+  },
+  {
+    "id": "eight",
+    "name": "Wrong ID Type",
+    "price": 100,
+    "rarity": "Epic"
+  },
+  {
+    "id": 9,
+    "name": 123,
+    "price": 200,
+    "rarity": "Rare"
+  },
+  {
+    "id": 10,
+    "name": "Wrong Price Type",
+    "price": "free",
+    "rarity": "Common"
+  },
+  {
+    "id": 11,
+    "name": "Wrong Rarity Type",
+    "price": 300,
+    "rarity": true
+  },
+  {
+    "id": 12,
+    "price": 500,
+    "rarity": "Epic"
+  },
+  {
+    "id": 13,
+    "name": "Missing Price",
+    "rarity": "Rare"
+  },
+  {
+    "id": 14,
+    "name": "Missing Rarity",
+    "price": 250
+  },
+  {
+    "name": "Missing ID",
+    "price": 150,
+    "rarity": "Common"
+  }
+]
